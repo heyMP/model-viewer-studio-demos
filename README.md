@@ -13,3 +13,5 @@ npx model-viewer-studio flight-helmet/index.html
 Visit http://localhost:3000
 
 Click the `edit hotspots` button in the top left corner. Add a few hotspots and click save. Those hotspots will now be saved in the example html file. 
+
+![](./screenshot.png)
