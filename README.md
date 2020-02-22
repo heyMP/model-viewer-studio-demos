@@ -10,6 +10,9 @@ cd model-viewer-studio-demos
 npx model-viewer-studio flight-helmet/index.html
 ```
 
+note: `npx` require node version 10 or higher.
+
+
 Visit http://localhost:3000
 
 Click the `edit hotspots` button in the top left corner. Add a few hotspots and click save. Those hotspots will now be saved in the example html file. 
